@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Practica Final</title>
+    <link rel="stylesheet" type="text/css" href="practicafinal.css">
+  </head>
+  <body>
+    <div>
+      <center>
+        <h1>Bienvenido a nuestro portal!!!</h1>
+      </center>
+      <br>
+      <a href="index.html"><img src="casa.png" hspace="150" height="13%" width="13%"
+
+          vspace="10"></a> <a href="formulario.html"><img src="formulario.png"
+
+          hspace="50" height="13%" width="13%" vspace="10"></a> <a href="tabla.html"><img
+
+          src="oferta.png" hspace="100" height="13%" width="13%" vspace="10"></a>
+      <table>
+      </table>
+      <hr>
+      <center>
+        <h2>Instrucciones para realizar el ejercicio:</h2>
+      </center>
+      <ul>
+        <li>crea la estructura de los ficheros html que permita imitar este
+          estilo web</li>
+        <li>las imagenes, botones, fondos los tienes en el fichero que has
+          tenido que descargar de la plataforma</li>
+        <li>lo que estás leyendo corresponde a la opción home</li>
+        <li>todos los atributos de formato se establecerán meiante una única
+          hoja de estilo, referenciada desde los diferentes ficheros </li>
+        <li>por cierto, esto es una lista desordenada, con un icono como viñeta,
+          tipo familia sherif, blod e italic</li>
+        <li>Añade de tu parte algún componente propio de html5, css3 y framework
+          css...</li>
+        <li>El ancho del bloque central esta establecido en 1024px</li>
+        <li>Publica tu trabajo en algun servidor web de alojamiento gratuito</li>
+        <li>Indica la URL de acceso al contenido en la entrega de tarea</li>
+        <li>Ánimo ;-)</li>
+      </ul>
+    </div>
+    <footer>
+      <hr>
+      <p style="text-align: right">�Marca registrada por lolailo &amp; company</p>
+    </footer>
+  </body>
+</html>

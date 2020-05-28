@@ -1,0 +1,56 @@
+body
+{
+	background-image: url("fons.JPG");
+	width: 1024px;
+	margin: 0 auto;
+	height: 630px;
+}
+
+li
+{
+	list-style-image: url("ok.jpg");
+	font-size: 14pt;
+	font-family: serif;
+	font-weight: bold;
+	font-style: italic;
+	color: #008080;
+}
+
+h1
+{
+	font-size: 24pt;
+	font-family: Candy Cane Match;
+	color: #008080;
+}
+
+h2,h3
+{
+	font-size: 24pt;
+	font-family: Candy Cane Match;
+	color: #8B0000;
+}
+form
+{
+	background-color: #AFEEEE;
+	font-family:serif;
+	font-size: 14pt;
+	font-weight: bold;
+	font-style: italic;
+	color: #008080;
+}
+.izquierda
+{
+text-align: left;
+}
+.centro
+{
+text-align: center;
+}
+td
+{
+text-align: center;
+}
+th
+{
+background-color: #288E75;
+}
